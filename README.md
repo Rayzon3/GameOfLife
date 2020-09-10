@@ -13,7 +13,7 @@ These are the rules of the simulation:
 3) All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 
-
+![](image.jpg)
 
 
 
